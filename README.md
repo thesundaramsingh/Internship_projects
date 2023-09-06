@@ -19,7 +19,7 @@ It serves as a visual representation of what a Netflix-like website could look l
 
 ## Demo
 
-You can see a live demo of this Netflix clone [here](https://netflix-clone05.netlify.app/).
+You can see a live demo of this Netflix clone [here](https://clone-nflix.netlify.app/).
 
 ## Installation
 
